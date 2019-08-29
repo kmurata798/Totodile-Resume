@@ -1,0 +1,19 @@
+body {
+    background: rgb(35, 207, 190);
+    margin-left: 400px;
+}
+
+h1 {
+    color: blue;
+    margin-left: 300px;
+}
+
+h2 {
+    margin-top: -250px;
+}
+
+.container img{
+    height: auto;
+    width: 300px;
+    margin-left: -350px;
+}
